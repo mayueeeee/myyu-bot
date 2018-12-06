@@ -1,0 +1,23 @@
+{
+  "name": "myyu-bot",
+  "version": "1.0.0",
+  "description": "Just a lazy bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayueeeee/myyu-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayueeeee/myyu-bot/issues"
+  },
+  "homepage": "https://github.com/mayueeeee/myyu-bot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "query-string": "^6.2.0"
+  }
+}
